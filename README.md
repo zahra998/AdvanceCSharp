@@ -1,1 +1,1 @@
-# AdvancecSharp
+Simple query filtration using delegate
