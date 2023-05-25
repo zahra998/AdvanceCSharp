@@ -1,1 +1,1 @@
-Simple query filtration using delegate
+#Simple query filtration using delegate
