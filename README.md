@@ -1,2 +1,1 @@
-
-#Simple query filtration using delegate
+# dragons-group

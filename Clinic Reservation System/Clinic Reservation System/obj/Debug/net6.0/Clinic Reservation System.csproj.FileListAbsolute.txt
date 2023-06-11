@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\bin\Debug\net6.0\Clinic Reservation System.exe
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\bin\Debug\net6.0\Clinic Reservation System.deps.json
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\bin\Debug\net6.0\Clinic Reservation System.runtimeconfig.json
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\bin\Debug\net6.0\Clinic Reservation System.dll
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\bin\Debug\net6.0\Clinic Reservation System.pdb
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\Clinic Reservation System.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\Clinic Reservation System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\Clinic Reservation System.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\Clinic Reservation System.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\Clinic Reservation System.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\Clinic Reservation System.dll
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\refint\Clinic Reservation System.dll
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\Clinic Reservation System.pdb
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\Clinic Reservation System.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\Clinic Reservation System\Clinic Reservation System\obj\Debug\net6.0\ref\Clinic Reservation System.dll

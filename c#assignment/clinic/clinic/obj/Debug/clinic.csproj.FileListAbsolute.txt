@@ -1,0 +1,6 @@
+/Users/beluch/Desktop/c#assignment/clinic/clinic/bin/Debug/clinic.exe
+/Users/beluch/Desktop/c#assignment/clinic/clinic/bin/Debug/clinic.pdb
+/Users/beluch/Desktop/c#assignment/clinic/clinic/obj/Debug/clinic.csproj.AssemblyReference.cache
+/Users/beluch/Desktop/c#assignment/clinic/clinic/obj/Debug/clinic.csproj.CoreCompileInputs.cache
+/Users/beluch/Desktop/c#assignment/clinic/clinic/obj/Debug/clinic.exe
+/Users/beluch/Desktop/c#assignment/clinic/clinic/obj/Debug/clinic.pdb
